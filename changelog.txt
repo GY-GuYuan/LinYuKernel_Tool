@@ -1,9 +1,6 @@
 #####检测到更新#####
 
-
 驱动版本LinYuDriverLoader5.3
-
 脚本版本LinYuKernel.Ver.3.0.2
-
 
 请及时更新，否则脚本无法自启动
