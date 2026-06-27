@@ -1,6 +1,6 @@
 #####检测到更新#####
 
-最新驱动版本LinYuDriverLoader5.3  
-最新脚本版本LinYuKernel.Ver.3.0.2
+最新驱动版本LinYuDriverLoader5.4  
+最新脚本版本LinYuKernel.Ver.3.0.5
 
 本次更新为全量更新，将自动下载整体模块包进行刷入，不更新将无法实现脚本自启动。
